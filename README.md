@@ -139,7 +139,7 @@ Visual representation of:
 
 ### Frontend
 
-- React 18
+- HTML
 - TypeScript
 - Vite
 - React Router
